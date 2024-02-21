@@ -1,6 +1,8 @@
 # Zygisk-ModuleTemplate
 
-magisk  ---  zygisk模块开发尝试
+magisk --- zygisk test
+
+forked from [PShocker/Zygisk-ModuleTemplate](https://github.com/PShocker/Zygisk-ModuleTemplate)
 
 Zygisk module template. refer to  [Riru-ModuleTemplate](https://github.com/RikkaApps/Riru-ModuleTemplate) and [zygisk-module-sample](https://github.com/topjohnwu/zygisk-module-sample)
 
